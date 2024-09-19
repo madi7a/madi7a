@@ -43,7 +43,7 @@ Curentlly working on improving my skills in thinking, coding, AI, ML, DL...
 ![Madiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=madi7a&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madi7a&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madi7a&theme=dark)
-![Metrics](https://metrics.lecoq.io/madi7a?template=classic&base.indepth=false&base.hireable=false&base.skip=false&languages=1&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCairo)
+![Metrics](https://metrics.lecoq.io/madi7atemplate=classic&base.indepth=false&base.hireable=false&base.skip=false&languages=1&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCairo)
 
 
 ## 🤝 Collaborations
