@@ -27,6 +27,10 @@ Curentlly working on improving my skills in thinking, coding, AI, ML, DL...
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+## 💡 Skills
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A3E0?style=flat&logo=openai&logoColor=white)
+![Problem-solving](https://img.shields.io/badge/Problem--Solving-4D7A8C?style=flat&logo=brain&logoColor=white)
+
 
 
 ## 🤝 Collaborations
