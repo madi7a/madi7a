@@ -1,16 +1,32 @@
 ## Hi there 👋
+I'm ##Madi7a 
+I'm an AI student ,interested in proplem solving ,math and learning 
+Curentlly working on improving my skills in thinking, coding, AI, ML, DL...
+ I'm working on projects to ease life using AI without making people more dependent.
 
-<!--
-**madi7a/madi7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## 🌱 Currently Learning
+- Advanced machine learning techniques
+- Integrating AI with biological data
+- Creative feature engineering and regression models
 
-Here are some ideas to get you started:
+- ## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/madihasaeid)
+- [Twitter](https://x.com/madiha80118057)
+- [Kagglel](https:/www.kaggle.com/madihasaeidfarouq)
+- [facebook](https://www.facebook.com/madihasaeid1712) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻 Technologies & Tools
+- Python
+- c/c++
+- HTML/CSS/JS
+- Java
+- Problem_Solving
+- caht_GPT
+- TensorFlow
+- Scikit-learn
+- Jupyter Notebooks
+
+
+## 🤝 Collaborations
+- Open to collaborating on AI, data science, and bioinformatics projects. Feel free to reach out!
