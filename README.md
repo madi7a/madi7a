@@ -44,6 +44,7 @@ Curentlly working on improving my skills in thinking, coding, AI, ML, DL...
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madi7a&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madi7a&theme=dark)
 ![Metrics](https://metrics.lecoq.io/madi7a?template=classic&base.indepth=false&base.hireable=false&base.skip=false&languages=1&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCairo)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=madi7a&theme=react-dark)
 
 ## 🤝 Collaborations
 - Open to collaborating on AI, data science, and bioinformatics projects. Feel free to reach out!
