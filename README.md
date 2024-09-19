@@ -1,5 +1,4 @@
-## Hi there 👋
-I'm ## Madi7a 
+## Hi there 👋 I'm Madi7a 
 I'm an AI student ,interested in proplem solving ,math and learning 
 Curentlly working on improving my skills in thinking, coding, AI, ML, DL...
  I'm working on projects to ease life using AI without making people more dependent.
