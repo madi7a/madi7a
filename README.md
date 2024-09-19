@@ -39,6 +39,11 @@ Curentlly working on improving my skills in thinking, coding, AI, ML, DL...
 ![Communication](https://img.shields.io/badge/Communication-1D4D7A?style=flat&logo=slack&logoColor=white)
 
 
+### 📊 GitHub Stats
+![Madiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![Metrics](https://metrics.lecoq.io/your-username?template=classic&base.indepth=false&base.hireable=false&base.skip=false&languages=1&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCairo)
 
 
 ## 🤝 Collaborations
