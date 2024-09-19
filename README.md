@@ -3,7 +3,7 @@ I'm an AI student ,interested in proplem solving ,math ,biology and learning.
 
 Curentlly working on improving my skills in thinking, coding, AI, ML, DL...
 
- I'm working on projects to ease life using AI without making people more dependent.
+ I'm working on AI projects to ease life using AI without making people more dependent.
 
  ## 🌱 Currently Learning
 - Advanced machine learning techniques
