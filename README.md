@@ -1,14 +1,15 @@
-## Hi there 👋 I'm Madi7a 
-I'm an AI student ,interested in proplem solving ,math ,biology and learning.
+# Hi there 👋 I'm **Madi7a**
 
-Curentlly working on improving my skills in thinking, coding, AI, ML, DL...
+I'm an **AI/ML Engineer** passionate about building intelligent systems that solve real problems while keeping humans at the center of technology.
 
- I'm working on AI projects to ease life using AI without making people more dependent.
+I enjoy working at the intersection of **machine learning, deep learning, LLMs, optimization algorithms**, and intelligent applications. My interests also blend **problem-solving, mathematics, biology**, and continuous learning.
 
- ## 🌱 Currently Learning
-- Advanced machine learning techniques
-- Integrating AI with biological data
-- Creative feature engineering and regression models
+---
+## 🧩 My Philosophy
+I build AI to **make life easier**, not to increase human dependency.  
+AI should empower people — not replace their thinking.
+
+---
 
 - ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/madihasaeid)
